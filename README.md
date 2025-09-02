@@ -4,8 +4,9 @@ This repository contains my code and projects from **Course 2 ("Advanced Learnin
 
 ## 🧠 Topics Covered ✅
 - **Week 1**: Neural Networks Basics (Forward Propagation, Activation Functions)
-- **Week 2**: Training Neural Networks (Backpropagation, TensorFlow Implementation)
-- **Week 3**: Multiclass Classification (Softmax, Cross-Entropy, Evaluation Metrics)
+- **Week 2**: Training Neural Networks (Backpropagation, TensorFlow Implementation),
+- Multiclass Classification (Softmax, Cross-Entropy)
+- **Week 3**: Advice for applying machine learning(Bias and Variance, Machine Learning Development process,  Evaluation Metrics)
 - **Week 4**: Decision Trees, Random Forests & XGBoost (using Scikit-learn)
 
 ## 💻 Projects ✅
