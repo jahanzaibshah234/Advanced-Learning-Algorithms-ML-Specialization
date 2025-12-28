@@ -1,6 +1,6 @@
 # ============================================================
-# Project: Titanic Survival Prediction using Decision Tree
-# Description: Predict passenger survival using Decision Tree Classifier
+# Project: Titanic Survival Prediction using Random Forest
+# Description: Predict passenger survival using Random Forest Classifier
 # ============================================================
 
 # ==============================
